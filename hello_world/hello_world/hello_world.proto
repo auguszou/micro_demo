@@ -9,5 +9,5 @@ message HelloWorldRequest {
 }
 
 message HelloWorldResponse {
-	string greeting = 2;
+	string greeting = 1;
 }
